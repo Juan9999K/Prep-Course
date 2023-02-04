@@ -4,7 +4,7 @@
 const nuevaString = 'Juan David';
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = 10;
+const nuevoNum = 4;
 
 // Crea una variable booleana:
 const nuevoBool = false;
@@ -250,7 +250,7 @@ function deEuroAdolar(euro) {
   //como parámetro un número de euros y calcule el cambio en dólares.
   //Escribe tu código aquí
   var dolar = (euro * 1.2)
-  return (dolar)
+  return (dolar);
 }
 
 
